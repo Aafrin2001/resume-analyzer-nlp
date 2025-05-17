@@ -18,8 +18,7 @@ Files
 - `match_report.txt` — auto-generated report
 
 Run It Online (No Install Needed)
-[![Open In Colab][(https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/NLP Resume Analyzer.ipynb)](https://colab.research.google.com/github/Aafrin2001/resume-analyzer-nlp/blob/main/Resume_Analyzer.ipynb
-)
+[![Open In Colab](https://colab.research.google.com/github/Aafrin2001/resume-analyzer-nlp/blob/main/Resume_Analyzer.ipynb)
 
 
 
