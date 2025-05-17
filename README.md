@@ -17,10 +17,10 @@ Files
 - `job_description.docx` — input file (upload in Colab)
 - `match_report.txt` — auto-generated report
 
-🚀 Run It Online (No Install Needed)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/YOUR_NOTEBOOK_ID)
+Run It Online (No Install Needed)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/NLP Resume Analyzer.ipynb)
 
-> Replace `YOUR_NOTEBOOK_ID` with your actual Colab notebook URL ID.
+
 
 Tech Stack
 - Python 3
