@@ -17,7 +17,7 @@ Files
 - `job_description.docx` — input file (upload in Colab)
 - `match_report.txt` — auto-generated report
 
-## 🚀 Run It Online (No Install Needed)
+Run It Online (No Install Needed)
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Aafrin2001/resume-analyzer-nlp/blob/main/Resume_Analyzer.ipynb)
 
