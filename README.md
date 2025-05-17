@@ -1,4 +1,4 @@
-NLP Resume Analyzer
+**Resume–Job Description Matching Tool using NLP**
 
 This project compares a resume and a job description using Natural Language Processing (NLP) techniques and calculates a match score based on text similarity.
 
